@@ -1,8 +1,8 @@
-# Marcelo
+# Marcelo Araújo
 * De São Luís-MA 📍
 * Cursando 3º período de redes de computadores (IFMA) 📚
 
-## Conhecimentos
+### Conhecimentos
 * Python (Estruturado e Orientado a Objetos)🐍
 * HTML 📰
 * CSS 🎨
@@ -17,10 +17,10 @@
 * os ⚙
 * TKinter
 
-## Apredendo
+### Apredendo
 * Java Script/Ecma
 
-## Outros
+### Outros
 * Topologias de redes, configurações de switches e redes
 * GIT
 * Pacote Office
