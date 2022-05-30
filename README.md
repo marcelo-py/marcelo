@@ -7,7 +7,7 @@
 * HTML 📰
 * CSS 🎨
 * MySQL 🗃
-* Dadware
+* Hadware e Software
 * Redes
 
 ### Frameworks e Libs
