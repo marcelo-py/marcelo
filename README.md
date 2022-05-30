@@ -7,7 +7,8 @@
 * HTML 📰
 * CSS 🎨
 * MySQL 🗃
-* hadware
+* Dadware
+* Redes
 
 ### Frameworks e Libs
 * Django (function e class views)
