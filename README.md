@@ -1,6 +1,6 @@
 # Marcelo
-* De São Luís-MA
-* Cursando 3º período de redes de computadores (IFMA)
+* De São Luís-MA 📍
+* Cursando 3º período de redes de computadores (IFMA) 📚
 
 ## Conhecimentos
 * Python (Estruturado e Orientado a Objetos)🐍
@@ -8,13 +8,13 @@
 * CSS 🎨
 * MySQL 🗃
 * Hadware e Software
-* Redes
+* Redes 🌐
 
 ### Frameworks e Libs
 * Django (function e class views)
-* Scrapy
-* PyGame
-* os
+* Scrapy 🕷
+* PyGame 🎮🕹
+* os ⚙
 * TKinter
 
 ## Apredendo
