@@ -25,3 +25,4 @@
 * GitHub
 * Pacote Office
 * Packet Tracer
+* Zabbix
