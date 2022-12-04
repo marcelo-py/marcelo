@@ -8,8 +8,8 @@
 * CSS 🎨
 * MySQL 🗃
 * Hadware e Software
-* Redes 🌐
 * JavaScript/Ecma
+* Protocolos
 
 ### Frameworks e Libs
 * Django (function e class views)
@@ -19,10 +19,12 @@
 * Tkinter
 * Requests
 
+### Redes
+* Zabbix
+* Packet Tracer
+
 ### Outros
-* Topologias de redes, configurações de switches e redes
+* Topologias de redes, configurações de switches etc.
 * GIT
 * GitHub
 * Pacote Office
-* Packet Tracer
-* Zabbix
