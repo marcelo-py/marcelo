@@ -9,6 +9,7 @@
 * MySQL 🗃
 * Hadware e Software
 * JavaScript/Ecma
+* Wordpress
 * Protocolos
 
 ### Frameworks e Libs
