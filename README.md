@@ -23,6 +23,7 @@
 ### Redes
 * Zabbix
 * Packet Tracer
+* Grafana
 
 ### Outros
 * Topologias de redes, configurações de switches etc.
