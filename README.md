@@ -1,6 +1,6 @@
 # Marcelo Araújo
 * De São Luís-MA 📍
-* Cursando 4º período de redes de computadores (IFMA) 📚
+* Cursando 5º período de redes de computadores (IFMA) 📚
 
 ### Conhecimentos
 * Python (Estruturado e Orientado a Objetos)🐍
